@@ -13,11 +13,16 @@
 >[游戏编程模式升级您的代码](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns)
 >[游戏编程模式升级您的代码-demo](https://github.com/Unity-Technologies/game-programming-patterns-demo)
 
->[Unity最佳实践](https://unity.com/how-to#2d)
+# 技巧
+>[第三人称相机-Creating a Third Person Camera using Cinemachine in Unity! ](https://www.youtube.com/watch?v=537B1kJp9YQ)
 
->[Unity项目实例](https://github.com/UnityTechnologies/open-project-1)
+# 实战项目
+>[Unity项目实例-open-project](https://github.com/UnityTechnologies/open-project-1)
 
+>[Unity项目实例-Dragon Crashers](https://blog.unity.com/games/get-to-know-dragon-crashers-our-latest-2d-sample-project)
 
+# Unity-电子书籍
+>[Unity-电子书籍库](https://unity.com/how-to#2d)
 
 
 
