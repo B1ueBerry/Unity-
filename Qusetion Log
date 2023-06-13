@@ -1,0 +1,2 @@
+# SVN 
+> is too old (format 10, created by Subversion 1.6) ->更新的更目录存在冲突的 .svn文件夹（有可能不可见） 删掉就好 mac下看不到 就把整个根目录删掉 在另一个路径新建文件夹
