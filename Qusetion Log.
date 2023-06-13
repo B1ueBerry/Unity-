@@ -1,3 +1,5 @@
 # SVN & connerstone
-> is too old (format 10, created by Subversion 1.6) ->更新的更目录存在冲突的 .svn文件夹（有可能不可见） 删掉就好 mac下看不到 就把整个根目录删掉 在另一个路径新建文件夹
-> mac上新增文件不展示 View->Show Ingored Items 新增的元素就会显示出来 提交：选中新增元素 右键-> Add to Work copy
+1.> is too old (format 10, created by Subversion 1.6) ->更新的更目录存在冲突的 .svn文件夹（有可能不可见） 删掉就好 mac下看不到 就把整个根目录删掉 在另一个路径新建文件夹
+2.> mac上新增文件不展示 View->Show Ingored Items 新增的元素就会显示出来 提交：选中新增元素 右键-> Add to Work copy
+3.> 修改svn server ip 选中库->右键->NetWork  connerstone 如果用https 闪退 这里修改成用http应该就好了 
+4.> connerstone 上传至svn server  选中下方库->右上方有一个Import 按钮
