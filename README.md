@@ -27,6 +27,10 @@
 
 >[UniHacker破解](https://github.com/tylearymf/UniHacker)
 
+>[YouTube - VFXEffects](https://www.youtube.com/@GabrielAguiarProd)
+
+>[YouTube - 人物效果编程](https://www.youtube.com/@mixandjam)
+
 # 技巧
 >[第三人称相机-Creating a Third Person Camera using Cinemachine in Unity! ](https://www.youtube.com/watch?v=537B1kJp9YQ)
 
