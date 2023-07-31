@@ -15,6 +15,18 @@
 >[游戏编程模式升级您的代码](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns)
 >[游戏编程模式升级您的代码-demo](https://github.com/Unity-Technologies/game-programming-patterns-demo)
 
+>[地形教程](https://catlikecoding.com/unity/tutorials/)
+
+>[游戏编程](http://www-cs-students.stanford.edu/~amitp/gameprog.html#design)
+
+>[用 Unity3D 编写的设计模式](https://github.com/QianMo/Unity-Design-Pattern)
+
+>[编程教学（地形、mesh、shader）](https://catlikecoding.com/unity/tutorials/prototypes/paddle-square/)
+
+>[游戏着色器](https://github.com/lettier/3d-game-shaders-for-beginners)
+
+>[UniHacker破解](https://github.com/tylearymf/UniHacker)
+
 # 技巧
 >[第三人称相机-Creating a Third Person Camera using Cinemachine in Unity! ](https://www.youtube.com/watch?v=537B1kJp9YQ)
 
@@ -23,11 +35,15 @@
 
 >[Unity项目实例-Dragon Crashers](https://blog.unity.com/games/get-to-know-dragon-crashers-our-latest-2d-sample-project)
 
-# Unity-电子书籍
+# 电子书籍
 >[Unity-电子书籍库](https://unity.com/how-to#2d)
+
+>[数学-矩阵力量](https://github.com/Visualize-ML/Book4_Power-of-Matrix/tree/main)
 
 
 # 其他
 >[罗马数字规则](https://b2b.partcommunity.com/community/knowledge/zh_CN/detail/10753/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97#knowledge_article)
+
+>[程序员延寿指南](https://github.com/geekan/HowToLiveLonger)
 
 
