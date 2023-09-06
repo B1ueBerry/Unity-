@@ -31,6 +31,8 @@
 
 >[YouTube - 人物效果编程](https://www.youtube.com/@mixandjam)
 
+>.[人物动画](https://www.mixamo.com/#/?page=1&type=Character)
+
 # 技巧
 >[第三人称相机-Creating a Third Person Camera using Cinemachine in Unity! ](https://www.youtube.com/watch?v=537B1kJp9YQ)
 
