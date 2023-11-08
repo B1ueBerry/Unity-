@@ -50,6 +50,8 @@
 
 >[数学-矩阵力量](https://github.com/Visualize-ML/Book4_Power-of-Matrix/tree/main)
 
+>[Putting the "You" in CPU](https://github.com/hackclub/putting-the-you-in-cpu#putting-the-you-in-cpu)
+
 
 # 其他
 >[罗马数字规则](https://b2b.partcommunity.com/community/knowledge/zh_CN/detail/10753/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97#knowledge_article)
