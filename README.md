@@ -52,6 +52,11 @@
 
 >[Putting the "You" in CPU](https://github.com/hackclub/putting-the-you-in-cpu#putting-the-you-in-cpu)
 
+# 图片资源
+>[免费游戏图标](https://game-icons.net/)
+
+# 音频  
+>[免费音效](https://budgetpixel.com/sfx)
 
 # 其他
 >[罗马数字规则](https://b2b.partcommunity.com/community/knowledge/zh_CN/detail/10753/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97#knowledge_article)
